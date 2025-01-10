@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Katha Patel
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning Spring boot and React
+- 🌱 I’m currently learning Enterprise software design
 - 💞️ I’m looking to collaborate on full-stack related projects
 - 📫 you can reach at kathapatel111@gmail.com
 
